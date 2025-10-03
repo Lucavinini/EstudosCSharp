@@ -15,5 +15,15 @@ double Temperatura = 36.33;
 
 Console.WriteLine($"Hoje fez {Temperatura} Graus");
 
+//Concatenação
+
+string PrimeiroNome = "Fábio ";
+string SegundoNome = "Akira";
+
+string NomeCompleto = PrimeiroNome + SegundoNome;
+Console.WriteLine(NomeCompleto);
+
+
+
 
 
